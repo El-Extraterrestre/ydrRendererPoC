@@ -15,13 +15,13 @@ I had a few goals for it:
 
 
 ### Usage ###
-This program only can parse decompressed and decrypted files, use CodeX from dexyfex for it. Or dump from memory.\
-1. put the .ydr file under resources>models\
-2. put the textures as .dds in resources>textures\
-3. and add the name in graphics>GUI.h (I forgot this cumbersome way)\
-4. `make`\
-5. run app
-**Controls**
+This program only can parse decompressed and decrypted files, use CodeX from dexyfex for it. Or dump from memory.
+1. put the .ydr file under resources>models
+2. put the textures as .dds in resources>textures
+3. and add the name in graphics>GUI.h (I forgot this cumbersome way)
+4. `make`
+5. run app\
+**Controls:**\
 WASD + QE + Mouse for movement\
 Tab for menu\
 Esc to close\
@@ -49,4 +49,4 @@ As I also didn't do the whole .rpf file system with decryption and decompression
 [Kaitai Struct](https://kaitai.io/)\
 [OpenGL Mathematics](https://github.com/g-truc/glm)\
 [OpenGL Image](https://github.com/g-truc/gli)\
-[Poly Haven](https://polyhaven.com/)\
+[Poly Haven](https://polyhaven.com/)
